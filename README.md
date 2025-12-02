@@ -13,7 +13,7 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **Data Engineering** to build better pipelines for my robots.
 - 👯 I’m looking to collaborate on **Open Source Robot Kinematics**.
-- 💬 Ask me about **Machine Learning & Python**.
+- 💬 Ask me about **Machine Learning. Python and AWS Cloud Engineering**.
 - 📫 Reach me at: [opendavidfunction@gmail.com](mailto:opendavidfunction@gmail.com)
 
 <p align="center">
