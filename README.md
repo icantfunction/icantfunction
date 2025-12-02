@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35C74F&center=true&vCenter=true&width=435&lines=Hi,+I'm+icantfunction+👋;I+build+intelligent+robots+🤖;I+crunch+data+for+AI+models+📊;I+live+in+the+code+editor+💻" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icantfunction&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="icantfunction's stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icantfunction&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
 
----
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icantfunction&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=icantfunction&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
+  </a>
+</div>
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **Data Engineering** to build better pipelines for my robots.
