@@ -8,6 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # ⬇️ THIS IS THE MISSING MAGIC PART ⬇️
+    permissions: 
+      contents: write
+    
     steps:
       - uses: actions/checkout@v2
       
