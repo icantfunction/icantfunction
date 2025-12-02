@@ -3,7 +3,7 @@
   <br/>
 
 ### 🚀 Tech Stack & About Me
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,aws,docker,git,linux,postgres,vscode&perline=14" />
   </a>
