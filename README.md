@@ -2,8 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35C74F&center=true&vCenter=true&width=435&lines=Hi,+I'm+icantfunction+👋;I+build+intelligent+robots+🤖;I+crunch+data+for+AI+models+📊;I+live+in+the+code+editor+💻" alt="Typing SVG" />
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icantfunction&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
+### 🚀 Tech Stack & About Me
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,aws,docker,git,linux,postgres,vscode&perline=14" />
+  </a>
+</p>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=icantfunction&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
